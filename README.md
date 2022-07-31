@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+A simple pagination app in react
+
+
+https://user-images.githubusercontent.com/27567132/182046311-c945bb8f-deea-497d-9e3f-0e2263b1a992.mov
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
