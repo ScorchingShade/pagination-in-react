@@ -1,0 +1,22 @@
+.hName {
+    font-weight: bold;
+    font-size: 2rem;
+    color: #ff8f8f;
+}
+
+.hDept {
+    font-weight: bold;
+    font-size: 2rem;
+    color: #ff8f8f;
+}
+
+.heading {
+    border: 1px solid;
+    margin-bottom:0.5rem;
+    box-shadow: 0.2rem 0.2rem 0.5rem #888888;
+    display:flex;
+    justify-content: space-between;
+    flex-direction:row;
+    width: 50%;
+    padding: 1rem;
+}

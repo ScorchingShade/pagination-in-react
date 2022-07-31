@@ -1,0 +1,25 @@
+.button,.buttonActive {
+    padding: 1rem 1.5rem;
+    background-image: linear-gradient(to bottom, #37ede1, #fff);
+    margin: 0.5rem;
+    color: black;
+    font-weight: bold;
+    font-size: 1rem;
+    border: 1px solid black;
+    filter: drop-shadow(0.2rem 0.2rem 0.1rem #37ede1);
+}
+
+.button:hover {
+    background-image: linear-gradient(to bottom, #37ed7a, #fff);
+    filter: drop-shadow(0.2rem 0.2rem 0.1rem #37ed7a);
+}
+
+.buttonActive{
+    background-image: linear-gradient(to bottom, #37ed7a, #fff);
+    filter: drop-shadow(0.2rem 0.2rem 0.1rem #37ed7a);
+}
+
+.buttonActive:hover {
+    background-image: linear-gradient(to bottom, #37ede1, #fff);
+    filter: drop-shadow(0.2rem 0.2rem 0.1rem #37ede1);
+}

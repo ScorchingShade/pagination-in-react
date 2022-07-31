@@ -1,0 +1,43 @@
+.main {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.users {
+  text-align: center;
+  font-size: 3rem;
+  width: 90%;
+  margin: 5rem 0 2rem 0;
+  padding: 1rem 0rem;
+  box-shadow: 0rem 0.5rem #888888;
+  
+}
+
+.rows{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width:100%;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom:1rem;
+}
+
+.rows select {
+  margin-left: 1rem;
+  margin-right: 0.5rem;
+}
+
+.buttonWrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  padding-top:1rem;
+}
+
